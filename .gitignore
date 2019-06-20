@@ -1,2 +1,5 @@
 #Ignore notebook checkpoints 
 .ipynb_checkpoints
+
+#Ignore private folder
+private
